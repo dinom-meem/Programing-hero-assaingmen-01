@@ -186,3 +186,29 @@ main section{
 .details{
     margin: 0 10px;
 }
+
+/* explore part */
+.explore-part{
+    text-align: center;
+    background-color: rgba(247, 240, 240, 0.772);
+    
+}
+.explore-title{
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(0, 0, 0, 1);
+    padding-top: 50px;
+}
+.ex-subtitle{
+    font-weight: 400;
+    font-size: 22px;
+    color: #B3B3B3;
+}
+.get-start{
+    margin-bottom: 15px;
+}
+.explore-img img{
+    border-radius: 40px;
+    margin-bottom: 20px;
+    
+}
