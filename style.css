@@ -212,3 +212,35 @@ main section{
     margin-bottom: 20px;
     
 }
+
+/* form part */
+.medium-font{
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+
+}
+
+.form-items{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 100px
+    ;
+}
+.form-title{
+    font-weight: bold;
+    font-size: 97px;
+}
+main input[type="text"],main input[type="email"],main textarea{
+    height: 65px;
+    border-radius: 5px;
+    background-color: rgba(247, 240, 240, 0.772);
+    width: 100%;
+    border: none;
+    margin-bottom: 15px;
+
+}
+.getin-touch-btn{
+    width: 100%;
+}
