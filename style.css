@@ -244,3 +244,35 @@ main input[type="text"],main input[type="email"],main textarea{
 .getin-touch-btn{
     width: 100%;
 }
+
+/* Footer part */
+.footer-sec{
+    background-color: rgba(247, 240, 240, 0.772);
+    
+}
+.fot-items{
+    max-width: 530px;
+    text-align: center;
+    padding: 104px 455px;
+     margin: 0 auto;
+}
+.fot-logo{
+    font-weight: bold;
+    font-size: 100px;
+    
+}
+.fot-logo-color{
+    color: rgba(78, 71, 255, 1);
+}
+.fot-txt{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(137, 135, 161, 1);
+}
+.fot-menu{
+    padding: 0 10px;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(137, 135, 161, 1);
+
+}
