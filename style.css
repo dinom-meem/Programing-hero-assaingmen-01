@@ -66,3 +66,68 @@ nav h3{
     font-size: 65px;
 }
 
+/* main part */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+main section{
+    margin-top: 116px;
+    margin-bottom: 116px;
+}
+.preview-items{
+    display: flex;
+    justify-content: space-between;
+}
+.preview-txt{
+    max-width: 517px;
+}
+.action-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.action-sub-title{
+    font-weight: 400;
+    font-size: 24px;
+    color: #252432;
+}
+.preview-img{
+    max-width: 403px;
+}
+
+.preview-img img{
+    border-radius: 48px;
+
+}
+/* User section */
+
+.user-sec{
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 50px 80px;
+    text-align: center;
+    border-radius: 24px;
+}
+.user-title{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+}
+.sub-title{
+    display: flex;
+    justify-content: space-around;
+
+}
+.numbers{
+    font-weight: bold;
+    font-size: 80px;
+    color: #4E47FF;
+    margin-bottom: 10px;
+}
+.description{
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+    
+}
